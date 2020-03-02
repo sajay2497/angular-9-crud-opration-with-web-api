@@ -1,0 +1,11 @@
+<a routerLink = '/'>< Back</a>
+<h2>Update Product</h2>
+
+
+<form #productData = "ngForm" (ngSubmit) = "updateProduct(productData.value)">
+<!-- <form #productData = "ngForm" > -->
+    <label>Name: </label><input type = "text" name="name" id="name" placeholder="Name"  ngModel><br>
+    <label>Color: </label><input type = "text" name="color" id="color" placeholder="Color"  ngModel><br>
+    <input type="submit" value = "Update Product">
+</form>
+<br>

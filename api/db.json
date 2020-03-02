@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "t-shirt",
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "name": "trouser",
+      "color": "yellow"
+    },
+    {
+      "id": 3,
+      "name": "hat",
+      "color": "blue"
+    },
+    {
+      "name": "ajay",
+      "color": "rad",
+      "id": 4
+    },
+    {
+      "name": "ajay kumar",
+      "color": "asdf",
+      "id": 5
+    },
+    {
+      "name": "abhay",
+      "color": "read",
+      "id": 6
+    }
+  ]
+}
